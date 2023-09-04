@@ -4,4 +4,4 @@ An in-depth final year project which analyzes and evaluates the effectiveness of
 
 The physics-informed neural network approach offers a versatile and efficient tool for predicting and analysing complex fluid systems, providing a bridge between traditional fluid mechanics and modern data-driven techniques. With further advancements and refinements, this approach holds great potential for enhancing design processes, optimization strategies, and decision-making in fluid dynamics applications.
 
-Main report can be found in the PDF file named 'Using_PINNs_to_predict_non_Newtonian_flows.pdf'.
+- Main report can be found in the PDF file named 'Using_PINNs_to_predict_non_Newtonian_flows.pdf'.
